@@ -1,0 +1,52 @@
+body{
+      margin: 0;
+      font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+      background-position: cover;
+      background-image: url(wall2.jpg);
+}
+
+header{
+  z-index: 1;
+}
+ul{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+li{
+  padding: 10px 20px;
+  font-size: 140%;
+  display: inline-block;
+  width: auto;
+}
+
+nav{
+    z-index: 1000;
+    position: fixed;
+    width: 100%;
+    background-color: #1c1c1c;
+    height: auto;
+}
+
+nav a:hover{
+    color: silver;
+}
+
+a{
+    color: white;
+    text-decoration: none ;
+}
+
+h1{
+  text-align: center;
+}
+
+.container,p{
+	background-color: red;
+	letter-spacing: 10px;
+	padding: 12px 24px !important;
+
+	
+}
+
