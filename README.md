@@ -26,7 +26,7 @@ The purpose of the mission was to create a web application for archiving CD-ROMs
 The first step was to make the Association Entity Model (AEM), the Relational Model (RM) and the Physical Data Model (PDM).
 
 #### Association Entity Model (AEM)
-![alt text](https://github.com/VirgilG6/Archivage_CD-ROM/blob/master/assets/Accueil.png)
+![alt text](https://github.com/VirgilG6/Archivage_CD-ROM/blob/master/assets/MCD.png)
 
 #### Relationship Model (RM)
 ```
@@ -36,7 +36,7 @@ Supports (Id, Libellé, #Ref)
 ```
 
 #### Physical Data Model (PDM)
-![alt text](https://github.com/VirgilG6/Archivage_CD-ROM/blob/master/assets/Accueil.png)
+![alt text](https://github.com/VirgilG6/Archivage_CD-ROM/blob/master/assets/MPD.png)
 
 ### Step 2
 
