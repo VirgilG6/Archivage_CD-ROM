@@ -1,5 +1,5 @@
 # Présentation de l'application d'archivage des CD-ROM
-![alt text](https://github.com/VirgilG6/Application-Stage-Anses/blob/master/assets/accueil.png)
+![alt text](https://github.com/VirgilG6/Archivage_CD-ROM/blob/master/assets/Accueil.png)
 
 ## Installation
 1. Créer un espace de stockage sur votre ordinateur (exemple: archivage_CD-ROM):
@@ -9,7 +9,7 @@ cd archivage_CD-ROM
 
 2. Cloner le projet en utilisant la commande suivante: 
 ```
-git clone https://github.com/VirgilG6/Application-Stage-Anses.git
+git clone https://github.com/VirgilG6/Archivage_CD-ROM
 ```
 
 
