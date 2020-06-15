@@ -111,7 +111,7 @@ La dernière étape, a été de faire les statistiques.
 
 ## Conclusion
 ### Difficultés rencontrées
-
+Les difficultés rencontrées ont été la compréhension du projet et de ses besoins et aussi de faire les statistiques.
 
 ### Compétences
 #### Situations obligatoires

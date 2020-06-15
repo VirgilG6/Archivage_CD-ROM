@@ -111,7 +111,7 @@ The last step was to do the statistics.
 
 ## Conclusion
 ### Difficulties encountered
-
+The difficulties encountered were in understanding the project and its needs and also in making the statistics.
 
 ### Skills
 #### Mandatory situations
