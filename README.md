@@ -41,7 +41,9 @@ The purpose of the mission was to create a web application for archiving CD-ROMs
 
 ### Skills
 #### Mandatory situations
-
+Participation in an IS evolution project (application and infrastructure solution focusing on the candidate's area of expertise).  
+Handling of incidents and requests for assistance related to the candidate's area of specialty.  
+Development of production and supply documents.
 
 #### Skills implemented
 A1.4.1, Project participation.  
