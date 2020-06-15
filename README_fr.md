@@ -77,37 +77,37 @@ La troisième étape, était de faire l’organisation des pages et leur maquett
 La quatrième étape a été de faire les ajouts, les modifications et les suppressions de logiciel et de support.
 
 #### Ajout logiciel
-![alt text](https://github.com/VirgilG6/Archivage_CD-ROM/blob/master/assets/Maquette_1.png)
+![alt text](https://github.com/VirgilG6/Archivage_CD-ROM/blob/master/assets/ajout_logi.png)
 
 #### Modifier logiciel
-![alt text](https://github.com/VirgilG6/Archivage_CD-ROM/blob/master/assets/Maquette_1.png)
+![alt text](https://github.com/VirgilG6/Archivage_CD-ROM/blob/master/assets/modif_logi.png)
 
 #### Supprimer logiciel
-![alt text](https://github.com/VirgilG6/Archivage_CD-ROM/blob/master/assets/Maquette_1.png)
+![alt text](https://github.com/VirgilG6/Archivage_CD-ROM/blob/master/assets/suppr_logi.png)
 
 #### Ajout support
-![alt text](https://github.com/VirgilG6/Archivage_CD-ROM/blob/master/assets/Maquette_1.png)
+![alt text](https://github.com/VirgilG6/Archivage_CD-ROM/blob/master/assets/ajout_support.png)
 
 #### Modifier support
-![alt text](https://github.com/VirgilG6/Archivage_CD-ROM/blob/master/assets/Maquette_1.png)
+![alt text](https://github.com/VirgilG6/Archivage_CD-ROM/blob/master/assets/modif_support.png)
 
 #### Supprimer support
-![alt text](https://github.com/VirgilG6/Archivage_CD-ROM/blob/master/assets/Maquette_1.png)
+![alt text](https://github.com/VirgilG6/Archivage_CD-ROM/blob/master/assets/suppr_support.png)
 
 #### Détails support
-![alt text](https://github.com/VirgilG6/Archivage_CD-ROM/blob/master/assets/Maquette_1.png)
+![alt text](https://github.com/VirgilG6/Archivage_CD-ROM/blob/master/assets/details_support.png)
 
 ### Étape 5
 La dernière étape, a été de faire les statistiques.
 
 #### Lister les logiciels étant sur le support voulu
-![alt text](https://github.com/VirgilG6/Archivage_CD-ROM/blob/master/assets/Maquette_1.png)
+![alt text](https://github.com/VirgilG6/Archivage_CD-ROM/blob/master/assets/list_logi_sur_support.png)
 
 #### Compter les logiciels d’un support 
-![alt text](https://github.com/VirgilG6/Archivage_CD-ROM/blob/master/assets/Maquette_1.png)
+![alt text](https://github.com/VirgilG6/Archivage_CD-ROM/blob/master/assets/compt_logi.png)
 
 #### Voir le nombre de logiciel de chaque support
-![alt text](https://github.com/VirgilG6/Archivage_CD-ROM/blob/master/assets/Maquette_1.png)
+![alt text](https://github.com/VirgilG6/Archivage_CD-ROM/blob/master/assets/voir_nbr_logi.png)
 
 ## Conclusion
 ### Difficultés rencontrées

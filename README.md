@@ -77,37 +77,37 @@ The third step was to organize the pages and their layout.
 The fourth step was to make additions, modifications and deletions of software and support.
 
 #### Add software
-![alt text](https://github.com/VirgilG6/Archivage_CD-ROM/blob/master/assets/Maquette_1.png)
+![alt text](https://github.com/VirgilG6/Archivage_CD-ROM/blob/master/assets/ajout_logi.png)
 
 #### Edit software
-![alt text](https://github.com/VirgilG6/Archivage_CD-ROM/blob/master/assets/Maquette_1.png)
+![alt text](https://github.com/VirgilG6/Archivage_CD-ROM/blob/master/assets/modif_logi.png)
 
 #### Delete software
-![alt text](https://github.com/VirgilG6/Archivage_CD-ROM/blob/master/assets/Maquette_1.png)
+![alt text](https://github.com/VirgilG6/Archivage_CD-ROM/blob/master/assets/suppr_logi.png)
 
 #### Add support
-![alt text](https://github.com/VirgilG6/Archivage_CD-ROM/blob/master/assets/Maquette_1.png)
+![alt text](https://github.com/VirgilG6/Archivage_CD-ROM/blob/master/assets/ajout_support.png)
 
 #### Edit support
-![alt text](https://github.com/VirgilG6/Archivage_CD-ROM/blob/master/assets/Maquette_1.png)
+![alt text](https://github.com/VirgilG6/Archivage_CD-ROM/blob/master/assets/modif_support.png)
 
 #### Delete support
-![alt text](https://github.com/VirgilG6/Archivage_CD-ROM/blob/master/assets/Maquette_1.png)
+![alt text](https://github.com/VirgilG6/Archivage_CD-ROM/blob/master/assets/suppr_support.png)
 
 #### Support details
-![alt text](https://github.com/VirgilG6/Archivage_CD-ROM/blob/master/assets/Maquette_1.png)
+![alt text](https://github.com/VirgilG6/Archivage_CD-ROM/blob/master/assets/details_support.png)
 
 ### Step 5
 The last step was to do the statistics.
 
 #### List the software being on the desired support
-![alt text](https://github.com/VirgilG6/Archivage_CD-ROM/blob/master/assets/Maquette_1.png)
+![alt text](https://github.com/VirgilG6/Archivage_CD-ROM/blob/master/assets/list_logi_sur_support.png)
 
 #### Count software from a support 
-![alt text](https://github.com/VirgilG6/Archivage_CD-ROM/blob/master/assets/Maquette_1.png)
+![alt text](https://github.com/VirgilG6/Archivage_CD-ROM/blob/master/assets/compt_logi.png)
 
 #### See the number of software on each media
-![alt text](https://github.com/VirgilG6/Archivage_CD-ROM/blob/master/assets/Maquette_1.png)
+![alt text](https://github.com/VirgilG6/Archivage_CD-ROM/blob/master/assets/voir_nbr_logi.png)
 
 ## Conclusion
 ### Difficulties encountered
