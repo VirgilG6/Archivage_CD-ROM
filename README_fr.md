@@ -39,7 +39,45 @@ Supports (Id, Libellé, #Ref)
 ![alt text](https://github.com/VirgilG6/Archivage_CD-ROM/blob/master/assets/MPD.png)
 
 ### Étape 2
+Après avoir fait le Modèle Entité Association, le Modèle Relationnel et le Modèle Physique de Données, nous avons pu créer la base de données et faire des tests SQL.
 
+#### Création de la base de données
+![alt text](https://github.com/VirgilG6/Archivage_CD-ROM/blob/master/assets/MPD.png)
+
+#### Tests SQL
+##### Lister tout ce qu’il y a dans la table logiciel
+```
+SELECT LibelleL
+FROM tlogiciel
+```
+
+##### Lister les logiciels étant sur le support 1
+```
+SELECT LibelleL 
+FROM tlogiciel
+WHERE Ref=1
+```
+
+##### Compter les logiciels d’un support
+```
+SELECT count(LibelleL)
+FROM tlogiciel where ref=1
+```
+
+##### Support sans logiciel
+```
+SELECT Libelles
+FROM tsupport
+WHERE Ids Not In (Select Ref From tlogiciel)
+```
+
+##### Afficher le nombre de logiciel de chaque support
+```
+SELECT count(Ref) AS nombre_logiciels, Libelles, Ref
+FROM tlogiciel l
+JOIN tsupport s ON l.Ref = s.Ids
+GROUP BY Ref
+```
 
 ### Étape 3
 

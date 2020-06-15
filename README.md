@@ -39,7 +39,45 @@ Supports (Id, Libellé, #Ref)
 ![alt text](https://github.com/VirgilG6/Archivage_CD-ROM/blob/master/assets/MPD.png)
 
 ### Step 2
+After doing the Association Entity Model, the Relational Model and the Physical Data Model, we were able to create the database and do SQL tests.
 
+#### Creation of the database
+![alt text](https://github.com/VirgilG6/Archivage_CD-ROM/blob/master/assets/MPD.png)
+
+#### SQL Testing
+##### List everything in the software table
+```
+SELECT LibelleL
+FROM tlogiciel
+```
+
+##### List software on support 1
+```
+SELECT LibelleL 
+FROM tlogiciel
+WHERE Ref=1
+```
+
+##### Count software from a support
+```
+SELECT count(LibelleL)
+FROM tlogiciel where ref=1
+```
+
+##### Support without software
+```
+SELECT Libelles
+FROM tsupport
+WHERE Ids Not In (Select Ref From tlogiciel)
+```
+
+##### Display the number of software on each media
+```
+SELECT count(Ref) AS nombre_logiciels, Libelles, Ref
+FROM tlogiciel l
+JOIN tsupport s ON l.Ref = s.Ids
+GROUP BY Ref
+```
 
 ### Step 3
 
