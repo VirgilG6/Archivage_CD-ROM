@@ -128,4 +128,4 @@ A4.1.9, Preparation of technical documentation.
 A4.1.10, Writing of user documentation.
 
 ### How could the application be improved ?
-
+The application could be improved with a better interface and more statistics.

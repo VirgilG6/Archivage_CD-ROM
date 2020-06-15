@@ -111,7 +111,7 @@ La dernière étape, a été de faire les statistiques.
 
 ## Conclusion
 ### Difficultés rencontrées
-Les difficultés rencontrées ont 
+
 
 ### Compétences
 #### Situations obligatoires
@@ -128,4 +128,4 @@ A4.1.9, Rédaction d'une documentation technique.
 A4.1.10, Rédaction d'une documentation d'utilisation.
 
 ### Comment l'application pourrait être amélioré ?
-
+L’application pourrait être amélioré par une meilleure interface et plus de statistiques.
