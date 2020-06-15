@@ -42,7 +42,7 @@ Supports (Id, Libellé, #Ref)
 After doing the Association Entity Model, the Relational Model and the Physical Data Model, we were able to create the database and do SQL tests.
 
 #### Creation of the database
-![alt text](https://github.com/VirgilG6/Archivage_CD-ROM/blob/master/assets/MPD.png)
+![alt text](https://github.com/VirgilG6/Archivage_CD-ROM/blob/master/assets/Im_BD.png)
 
 #### SQL Testing
 ##### List everything in the software table

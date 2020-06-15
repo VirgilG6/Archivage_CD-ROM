@@ -42,7 +42,7 @@ Supports (Id, Libellé, #Ref)
 Après avoir fait le Modèle Entité Association, le Modèle Relationnel et le Modèle Physique de Données, nous avons pu créer la base de données et faire des tests SQL.
 
 #### Création de la base de données
-![alt text](https://github.com/VirgilG6/Archivage_CD-ROM/blob/master/assets/MPD.png)
+![alt text](https://github.com/VirgilG6/Archivage_CD-ROM/blob/master/assets/Im_BD.png)
 
 #### Tests SQL
 ##### Lister tout ce qu’il y a dans la table logiciel
