@@ -51,19 +51,6 @@ SELECT LibelleL
 FROM tlogiciel
 ```
 
-##### List software on support 1
-```
-SELECT LibelleL 
-FROM tlogiciel
-WHERE Ref=1
-```
-
-##### Count software from a support
-```
-SELECT count(LibelleL)
-FROM tlogiciel where ref=1
-```
-
 ##### Support without software
 ```
 SELECT Libelles
@@ -71,13 +58,6 @@ FROM tsupport
 WHERE Ids Not In (Select Ref From tlogiciel)
 ```
 
-##### Display the number of software on each media
-```
-SELECT count(Ref) AS nombre_logiciels, Libelles, Ref
-FROM tlogiciel l
-JOIN tsupport s ON l.Ref = s.Ids
-GROUP BY Ref
-```
 
 ### Step 3
 The third step was to organize the pages and their layout.
@@ -94,8 +74,40 @@ The third step was to organize the pages and their layout.
 ![alt text](https://github.com/VirgilG6/Archivage_CD-ROM/blob/master/assets/Maquette_6.png)
 
 ### Step 4
+The fourth step was to make additions, modifications and deletions of software and support.
 
+#### Add software
+![alt text](https://github.com/VirgilG6/Archivage_CD-ROM/blob/master/assets/Maquette_1.png)
 
+#### Edit software
+![alt text](https://github.com/VirgilG6/Archivage_CD-ROM/blob/master/assets/Maquette_1.png)
+
+#### Delete software
+![alt text](https://github.com/VirgilG6/Archivage_CD-ROM/blob/master/assets/Maquette_1.png)
+
+#### Add support
+![alt text](https://github.com/VirgilG6/Archivage_CD-ROM/blob/master/assets/Maquette_1.png)
+
+#### Edit support
+![alt text](https://github.com/VirgilG6/Archivage_CD-ROM/blob/master/assets/Maquette_1.png)
+
+#### Delete support
+![alt text](https://github.com/VirgilG6/Archivage_CD-ROM/blob/master/assets/Maquette_1.png)
+
+#### Support details
+![alt text](https://github.com/VirgilG6/Archivage_CD-ROM/blob/master/assets/Maquette_1.png)
+
+### Step 5
+The last step was to do the statistics.
+
+#### List the software being on the desired support
+![alt text](https://github.com/VirgilG6/Archivage_CD-ROM/blob/master/assets/Maquette_1.png)
+
+#### Count software from a support 
+![alt text](https://github.com/VirgilG6/Archivage_CD-ROM/blob/master/assets/Maquette_1.png)
+
+#### See the number of software on each media
+![alt text](https://github.com/VirgilG6/Archivage_CD-ROM/blob/master/assets/Maquette_1.png)
 
 ## Conclusion
 ### Difficulties encountered

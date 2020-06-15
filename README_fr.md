@@ -51,19 +51,6 @@ SELECT LibelleL
 FROM tlogiciel
 ```
 
-##### Lister les logiciels étant sur le support 1
-```
-SELECT LibelleL 
-FROM tlogiciel
-WHERE Ref=1
-```
-
-##### Compter les logiciels d’un support
-```
-SELECT count(LibelleL)
-FROM tlogiciel where ref=1
-```
-
 ##### Support sans logiciel
 ```
 SELECT Libelles
@@ -71,13 +58,6 @@ FROM tsupport
 WHERE Ids Not In (Select Ref From tlogiciel)
 ```
 
-##### Afficher le nombre de logiciel de chaque support
-```
-SELECT count(Ref) AS nombre_logiciels, Libelles, Ref
-FROM tlogiciel l
-JOIN tsupport s ON l.Ref = s.Ids
-GROUP BY Ref
-```
 
 ### Étape 3
 La troisième étape, était de faire l’organisation des pages et leur maquettage.
@@ -94,12 +74,44 @@ La troisième étape, était de faire l’organisation des pages et leur maquett
 ![alt text](https://github.com/VirgilG6/Archivage_CD-ROM/blob/master/assets/Maquette_6.png)
 
 ### Étape 4
+La quatrième étape a été de faire les ajouts, les modifications et les suppressions de logiciel et de support.
 
+#### Ajout logiciel
+![alt text](https://github.com/VirgilG6/Archivage_CD-ROM/blob/master/assets/Maquette_1.png)
 
+#### Modifier logiciel
+![alt text](https://github.com/VirgilG6/Archivage_CD-ROM/blob/master/assets/Maquette_1.png)
+
+#### Supprimer logiciel
+![alt text](https://github.com/VirgilG6/Archivage_CD-ROM/blob/master/assets/Maquette_1.png)
+
+#### Ajout support
+![alt text](https://github.com/VirgilG6/Archivage_CD-ROM/blob/master/assets/Maquette_1.png)
+
+#### Modifier support
+![alt text](https://github.com/VirgilG6/Archivage_CD-ROM/blob/master/assets/Maquette_1.png)
+
+#### Supprimer support
+![alt text](https://github.com/VirgilG6/Archivage_CD-ROM/blob/master/assets/Maquette_1.png)
+
+#### Détails support
+![alt text](https://github.com/VirgilG6/Archivage_CD-ROM/blob/master/assets/Maquette_1.png)
+
+### Étape 5
+La dernière étape, a été de faire les statistiques.
+
+#### Lister les logiciels étant sur le support voulu
+![alt text](https://github.com/VirgilG6/Archivage_CD-ROM/blob/master/assets/Maquette_1.png)
+
+#### Compter les logiciels d’un support 
+![alt text](https://github.com/VirgilG6/Archivage_CD-ROM/blob/master/assets/Maquette_1.png)
+
+#### Voir le nombre de logiciel de chaque support
+![alt text](https://github.com/VirgilG6/Archivage_CD-ROM/blob/master/assets/Maquette_1.png)
 
 ## Conclusion
 ### Difficultés rencontrées
-Les difficultés rencontrées sont 
+Les difficultés rencontrées ont 
 
 ### Compétences
 #### Situations obligatoires
