@@ -23,7 +23,20 @@ L’objet de la mission était de créer une application web pour l’archivage 
 
 ## Étapes
 ### Étape 1
+La première étape, était de faire le Modèle Entité Association (MEA), le Modèle Relationnel (MR) et le Modèle Physique de Données (MPD).
 
+#### Modèle Entité Association (MEA)
+![alt text](https://github.com/VirgilG6/Archivage_CD-ROM/blob/master/assets/Accueil.png)
+
+#### Modèle Relationnel (MR)
+```
+Logiciels (Ref, Libellé)
+Supports (Id, Libellé, #Ref)
+
+```
+
+#### Modèle Physique de Données (MPD)
+![alt text](https://github.com/VirgilG6/Archivage_CD-ROM/blob/master/assets/Accueil.png)
 
 ### Étape 2
 
