@@ -80,7 +80,18 @@ GROUP BY Ref
 ```
 
 ### Étape 3
+La troisième étape, était de faire l’organisation des pages et leur maquettage.
 
+#### Organisation des pages
+![alt text](https://github.com/VirgilG6/Archivage_CD-ROM/blob/master/assets/Orga_pages.png)
+
+#### Maquettage
+![alt text](https://github.com/VirgilG6/Archivage_CD-ROM/blob/master/assets/Maquette_1.png)
+![alt text](https://github.com/VirgilG6/Archivage_CD-ROM/blob/master/assets/Maquette_2.png)
+![alt text](https://github.com/VirgilG6/Archivage_CD-ROM/blob/master/assets/Maquette_3.png)
+![alt text](https://github.com/VirgilG6/Archivage_CD-ROM/blob/master/assets/Maquette_4.png)
+![alt text](https://github.com/VirgilG6/Archivage_CD-ROM/blob/master/assets/Maquette_5.png)
+![alt text](https://github.com/VirgilG6/Archivage_CD-ROM/blob/master/assets/Maquette_6.png)
 
 ### Étape 4
 

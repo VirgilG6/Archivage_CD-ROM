@@ -80,7 +80,18 @@ GROUP BY Ref
 ```
 
 ### Step 3
+The third step was to organize the pages and their layout.
 
+#### Page organisation
+![alt text](https://github.com/VirgilG6/Archivage_CD-ROM/blob/master/assets/Orga_pages.png)
+
+#### Modeling
+![alt text](https://github.com/VirgilG6/Archivage_CD-ROM/blob/master/assets/Maquette_1.png)
+![alt text](https://github.com/VirgilG6/Archivage_CD-ROM/blob/master/assets/Maquette_2.png)
+![alt text](https://github.com/VirgilG6/Archivage_CD-ROM/blob/master/assets/Maquette_3.png)
+![alt text](https://github.com/VirgilG6/Archivage_CD-ROM/blob/master/assets/Maquette_4.png)
+![alt text](https://github.com/VirgilG6/Archivage_CD-ROM/blob/master/assets/Maquette_5.png)
+![alt text](https://github.com/VirgilG6/Archivage_CD-ROM/blob/master/assets/Maquette_6.png)
 
 ### Step 4
 
